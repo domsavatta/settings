@@ -1,0 +1,1 @@
+git branch | grep -v "qa" | xargs git branch -D 
